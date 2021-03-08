@@ -26,3 +26,8 @@ usage:
 from the cmd simply type
 
     sudo ?
+
+--------------------------------------------
+![GitHub all releases](https://img.shields.io/github/downloads/just6chill/sudo-windows/total)
+![GitHub last commit](https://img.shields.io/github/last-commit/just6chill/sudo-windows)
+![GitHub top language](https://img.shields.io/github/languages/top/just6chill/sudo-windows)
