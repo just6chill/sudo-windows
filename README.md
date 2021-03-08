@@ -11,6 +11,7 @@ add to path:
     setx path "%path%;C:\path\to\sudo"
     
 usage:
+
 from the cmd simply type
 
     sudo ?
