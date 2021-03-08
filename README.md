@@ -18,7 +18,7 @@ from the cmd simply type
 
     sudo ?
 --------------------------------------------
-GIUDE FOR USING PRECOMPILED MSI INSTALLER:
+GUIDE FOR USING PRECOMPILED MSI INSTALLER:
 
 download and execute sudo_installer.msi
 
